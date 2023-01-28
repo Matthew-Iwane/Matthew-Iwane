@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matthew-Iwane
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on front-end developement projects
+- 👀 I’m interested in weight-lifitng and watching anime!
+- 🌱 I’m currently learning React.js, MongoDB, Node.js, Express
+- 💞️ I’m looking to collaborate on full-stack applications with other passionate coders
 - 📫 How to reach me: mattiwane@gmail.com 
 
 <!---
