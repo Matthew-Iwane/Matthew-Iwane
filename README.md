@@ -22,7 +22,7 @@
 # 📫 How to reach me
   ### mattiwane@gmail.com 
   ### (323) 356- 4113
-  ### [PERSONAL PORTFOLIO](https://matthewtiwane.web.app/)
+  ### [PERSONAL PORTFOLIO](https://matt-iwane.web.app)
 
 <!---
 Matthew-Iwane/Matthew-Iwane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
