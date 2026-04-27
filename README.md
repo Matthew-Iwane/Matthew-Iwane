@@ -8,11 +8,6 @@
   - Express
   - Firebase
  
-- Tech Tools:
-  - Postman
-  - VS Code
-  - Google Colab
- 
 - Interests
   - Software Engineering
   - Machine Learning
@@ -20,7 +15,7 @@
     - Supervised Learning
     
 # 📫 How to reach me
-  ### mattiwane@gmail.com 
+  ### mattiwane.jobs@gmail.com 
   ### (323) 356- 4113
   ### [PERSONAL PORTFOLIO](https://matt-iwane.web.app)
 
